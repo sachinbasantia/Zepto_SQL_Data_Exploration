@@ -1,4 +1,4 @@
-# 🛒 Zepto E-Commerce SQL Data Exploration 
+# 🛒 Zepto Quick Commerce SQL Data Exploration 
 
 ## 📌 Project Overview
 This project is a comprehensive SQL data exploration of real-world e-commerce inventory data from Zepto (a quick-commerce platform). The objective of this project is to clean, transform, and analyze product stock, pricing, and discount strategies to uncover actionable business insights.
